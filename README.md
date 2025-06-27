@@ -10,6 +10,6 @@ This project demonstrates the use of **FileWriter**, **FileReader**, and **Buffe
 
 ---
 
-## 📂 Files
+## Files
 - `NotesApp.java` – Main Java file containing the source code.
 - `notes.txt` – File automatically created to store your notes.
